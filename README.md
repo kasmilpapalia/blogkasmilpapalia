@@ -1,2 +1,0 @@
-# blogkasmilpapalia
-web II
